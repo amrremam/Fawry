@@ -1,4 +1,4 @@
-# 🛒 Fawry E-Commerce System (Java)
+# Fawry E-Commerce System (Java)
 
 This is a basic object-oriented Java application that simulates a mini e-commerce system with features such as:
 
@@ -7,18 +7,18 @@ This is a basic object-oriented Java application that simulates a mini e-commerc
 - Checkout and payment processing
 - Shipment generation for shippable items
 
-> ✅ Built as part of the **Fawry Quantum Internship Challenge**
+> Built as part of the **Fawry Quantum Internship Challenge**
 
 ---
 
-## 📦 Features
+## Features
 
-### ✅ Product Types
+### Product Types
 - **Expirable products** (e.g. Cheese, Biscuits)
 - **Shippable products** with weight (e.g. Cheese, TV)
 - **Non-expirable, non-shippable** products (e.g. Scratch Card)
 
-### ✅ Cart & Checkout
+### Cart & Checkout
 - Add products to cart with specific quantity
 - Validations:
   - Cannot add more than available stock
@@ -34,7 +34,7 @@ This is a basic object-oriented Java application that simulates a mini e-commerc
 
 ---
 
-## 🧪 Sample Scenario
+## Sample Scenario
 
 ```java
 cart.addItem(cheese, 2);
